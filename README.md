@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello World
+I'm [Windard!](https://windard.com) 👋
 
-<!--
-**windard/windard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Windard's github stats](https://github-readme-stats.vercel.app/api?username=windard&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/windard)
+
+<a href="https://github.com/windard/python_lib">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=windard&repo=python_lib&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+<a href="https://github.com/windard/windard.com">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=windard&repo=windard.com&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+
+
