@@ -1,9 +1,10 @@
 ### Hello World
 Hi, I'm [Windard](https://windard.com) 👋
 
-<a link="/"><img src="https://img.shields.io/badge/age-24-blue">  </a>
-<a link="/"><img src="https://img.shields.io/badge/focus-backend-brightgreen"></a>
-<a link="/"><img src="https://img.shields.io/badge/living-shanghai-3c9"></a>
+![age](https://img.shields.io/badge/age-24-blue)
+![focus](https://img.shields.io/badge/focus-backend-brightgreen)
+![living](https://img.shields.io/badge/living-shanghai-3c9)
+![visitors](https://windard-visitor-badge.glitch.me/badge?page_id=windard.github.profile)
 
 <br />
 
